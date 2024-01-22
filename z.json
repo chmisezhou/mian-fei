@@ -132,46 +132,6 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
-        },
-        {
-            "key": "csp_TuGou",
-            "name": "粥粥4K搜索-B",
-            "type": 3,
-            "api": "csp_TuGou",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
-        },
-        {
-            "key": "PanSearch",
-            "name": "粥粥4K搜索-C",
-            "type": 3,
-            "api": "csp_PanSearch",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
-        },
-        {
-            "key": "Upyunso",
-            "name": "粥粥4K搜索-D",
-            "type": 3,
-            "api": "csp_UpYun",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
-        },
-        {
-            "key": "Alips",
-            "name": "粥粥4K搜索-E",
-            "type": 3,
-            "api": "csp_PanSou",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
         }
     ],
     "lives": [
