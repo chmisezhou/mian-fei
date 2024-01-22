@@ -1,5 +1,5 @@
 {
-    "spider": "./jar/fm.jar",
+    "spider": "http://175.178.229.243/jar/fm.jar",
     "sites": [
         {
             "key": "drpy_js_豆瓣",
