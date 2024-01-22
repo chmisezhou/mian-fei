@@ -5,8 +5,8 @@
             "key": "drpy_js_豆瓣",
             "name": "主页-热播",
             "type": 3,
-            "api": "./js/drpy2.min.js",
-            "ext": "./js/drpy.js"
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/chmisezhou/mian-fei/main/js/drpy2.min.js",
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/chmisezhou/mian-fei/main/js/drpy.js"
         },
         {
             "key": "drpy_js_豆",
@@ -36,85 +36,85 @@
             "key": "drpy_js_厂长资源",
             "name": "2KHD-A",
             "type": 3,
-            "api": "./js/drpy2.min.js",
-            "ext": "./js/jx/cz.js"
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/chmisezhou/mian-fei/main/js/drpy2.min.js",
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/chmisezhou/mian-fei/main/js/cz.js"
         },
         {
             "key": "drpy_js_农民",
             "name": "影视-A",
             "type": 3,
             "api": "./js/drpy2.min.js",
-            "ext": "./js/jx/农民影视.js"
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/chmisezhou/mian-fei/main/js/农民影视.js"
         },
         {
             "key": "drpy_js_免费看",
             "name": "影视-B",
             "type": 3,
             "api": "./js/drpy2.min.js",
-            "ext": "./js/jx/免费看.js"
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/chmisezhou/mian-fei/main/js/免费看.js"
         },
         {
             "key": "drpy_js_追剧迷",
             "name": "影视-C",
             "type": 3,
             "api": "./js/drpy2.min.js",
-            "ext": "./js/jx/追剧迷.js"
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/chmisezhou/mian-fei/main/js/追剧迷.js"
         },
         {
             "key": "drpy_js_LIBVIO",
             "name": "影视-D",
             "type": 3,
             "api": "./js/drpy2.min.js",
-            "ext": "./js/jx/LIBVIO.js"
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/chmisezhou/mian-fei/main/js/LIBVIO.js"
         },
         {
             "key": "drpy_js_Voflix",
             "name": "影视-D",
             "type": 3,
             "api": "./js/drpy2.min.js",
-            "ext": "./js/jx/voflix.js"
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/chmisezhou/mian-fei/main/js/voflix.js"
         },
         {
             "key": "drpy_js_米爱影视",
             "name": "影视-E",
             "type": 3,
             "api": "./js/drpy2.min.js",
-            "ext": "./js/jx/米爱影视.js"
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/chmisezhou/mian-fei/main/js/米爱影视.js"
         },
         {
             "key": "drpy_js_电影先生",
             "name": "影视-F",
             "type": 3,
             "api": "./js/drpy2.min.js",
-            "ext": "./js/jx/电影先生.js"
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/chmisezhou/mian-fei/main/js/电影先生.js"
         },
         {
             "key": "drpy_js_秋霞影院",
             "name": "影视-G",
             "type": 3,
             "api": "./js/drpy2.min.js",
-            "ext": "./js/jx/秋霞.js"
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/chmisezhou/mian-fei/main/js/秋霞.js"
         },
         {
             "key": "drpy_js_JRKAN直播",
             "name": "体育-JRKAN直播",
             "type": 3,
             "api": "./js/drpy.min.js",
-            "ext": "./js/jx/JRKAN直播.js"
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/chmisezhou/mian-fei/main/js/JRKAN直播.js"
         },
         {
             "key": "drpy_js_88看球",
             "name": "体育-88看球",
             "type": 3,
             "api": "./js/drpy2.min.js",
-            "ext": "./js/jx/88看球.js"
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/chmisezhou/mian-fei/main/js/88看球.js"
         },
         {
             "key": "drpy_js_310直播",
             "name": "体育-310直播",
             "type": 3,
             "api": "./js/drpy2.min.js",
-            "ext": "./js/jx/310直播.js"
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/chmisezhou/mian-fei/main/js/310直播.js"
         },
         {
             "key": "csp_阿里七夜",
