@@ -1,5 +1,5 @@
 {
-    "spider": "http://175.178.229.243/jar/fm.jar",
+    "spider": "https://ghproxy.net/https://raw.githubusercontent.com/chmisezhou/mian-fei/main/fm.jar",
     "sites": [
         {
             "key": "drpy_js_豆瓣",
